@@ -1,6 +1,6 @@
 # Technical Security
 
-This set of questions will help you guage your understanding of the technical security requirements under HIPAA and the Catalyze policies in place to meet them.
+This set of questions will help you guage your understanding of the technical security requirements under HIPAA and the Fibroblast policies in place to meet them.
 
 
 ---
@@ -11,7 +11,7 @@ You are responsible for your username/password when accessing the computer syste
 
 >  If you suspect that someone knows your password or has been compromised in any way, change your password immediately and notify the Chief Security Officer
 
-What is the Catalyze policy for password strength?
+What is the Fibroblast policy for password strength?
 - [ ] `Miniumum 7 characters - any combination of words and letters`
 - [x] `Minimum 7 characters - no dictionary words, one number, one special character`
 - [ ] `Minimum 7 characters - all numbers`
@@ -19,7 +19,7 @@ What is the Catalyze policy for password strength?
 
 > Do not use easy to guess passwords while ensuring a high degree on entropy. When choosing a password, it is important to make sure it isn’t easy for others to guess.  Your password is something you need to protect at all times.
 
-The information I access in computer systems may be audited by Catalyze Inc. at any time.
+The information I access in computer systems may be audited by Fibroblast Inc. at any time.
 - [x] `True`
 - [ ] `False`
 
