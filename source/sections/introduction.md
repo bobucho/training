@@ -42,4 +42,4 @@ So please - take the time to read through this carefully.
 
 *********************
 
-Original material and content was created by [Fibroblast, Inc,](https://fibroblast.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [Scott Vold, CEO](mailto:scott@fibroblast.com) with any questions or problems accessing the training.
+Original material and content was created by [Fibroblast, Inc,](http://fibroblast.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [Scott Vold, CEO](mailto:scott@fibroblast.com) with any questions or problems accessing the training.
